@@ -1,0 +1,1 @@
+Página HTML/CSS que simula um mecanismo de busca a partir de uma base de dados integrada e com interação javascript. A base de dados é pequena e o foco também foi em responder prompts negativos, ou seja, que não se encontravam na base de dados.
